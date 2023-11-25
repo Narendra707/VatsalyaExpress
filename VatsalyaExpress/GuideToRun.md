@@ -4,10 +4,9 @@ This Project dedicated to create a platform where users can browse and adopt pet
 Technologies Used :
 MERN Full Stack
 
-Developed By :
+## Developed By :
 Student:
-Narendra Kumar Patel
-Vellore Institute of Technology - Bhopal
+Narendra Kumar Patel  : Vellore Institute of Technology - Bhopal
 
 # Follow the step to run
 1. open the VatsalyaExpressFronted and run : npm install
